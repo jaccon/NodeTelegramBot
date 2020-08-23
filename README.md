@@ -29,6 +29,18 @@ yarn bot01
 yarn bot02
 ```
 
+### Documentation
+
+#### Bot 01
+Start with you first Telegram Bot using NodejS and Telegraf.
+Simple way to get a telegram username and send a simple text message
+
+#### Bot 02
+So now, we build a greate bot listening events from audio, stickers, 
+texts, location, images. This is a first step to do a greate bot.
+
+
+
 
 Happy coding ;-).
 by @Jaccon
