@@ -6,6 +6,7 @@
   "dependencies": {
     "axios": "^0.20.0",
     "dotenv": "^8.2.0",
+    "moments": "^0.0.2",
     "telegraf": "^3.38.0"
   },
   "devDependencies": {
@@ -15,6 +16,7 @@
     "bot01": "nodemon examples/bot01.js",
     "bot02": "nodemon examples/bot02.js",
     "bot03": "nodemon examples/bot03.js",
-    "bot04": "nodemon examples/bot04.js"
+    "bot04": "nodemon examples/bot04.js",
+    "bot05": "nodemon examples/bot05.js"
   }
 }

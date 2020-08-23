@@ -48,6 +48,9 @@ Share Video, location and more....
 So this time we use a Axios to get a file uploaded to Telegram plataform. We can get
 a file path to photo and voice. Remember all uploaded files stay enabled only one hour.
 
+#### Bot 05
+In Bot 05 we use a listening a string and regex to reply to user.
+
 
 Happy coding ;-).
 by @Jaccon
