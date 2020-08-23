@@ -39,6 +39,11 @@ Simple way to get a telegram username and send a simple text message
 So now, we build a greate bot listening events from audio, stickers, 
 texts, location, images. This is a first step to do a greate bot.
 
+#### Bot 03
+This example you can learning to use a differents reply types.
+Here we talk more about reply with rich text using HTML, Markdown, Photo, 
+Share Video, location and more....
+
 
 
 

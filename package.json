@@ -12,6 +12,7 @@
   },
   "scripts" : {
     "bot01" : "nodemon examples/bot01.js",
-    "bot02" : "nodemon examples/bot02.js"
+    "bot02" : "nodemon examples/bot02.js",
+    "bot03" : "nodemon examples/bot03.js"
   }
 }
