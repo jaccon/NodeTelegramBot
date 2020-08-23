@@ -18,7 +18,9 @@ c) Open your terminal and run command yarn ou npm i to install all dependencies
 
 Before you follow the steps above just type a yar or npm with examples:
 
+'''
 yarn bot01
 yarn bot02
+'''
 
 Happy coding ;-)
