@@ -1,0 +1,17 @@
+{
+  "name": "nodejstelegrambot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts" : {
+    "bot01" : "nodemon examples/bot01.js",
+    "bot02" : "nodemon examples/bot02.js"
+  }
+}
