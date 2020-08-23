@@ -44,7 +44,9 @@ This example you can learning to use a differents reply types.
 Here we talk more about reply with rich text using HTML, Markdown, Photo, 
 Share Video, location and more....
 
-
+#### Bot 04
+So this time we use a Axios to get a file uploaded to Telegram plataform. We can get
+a file path to photo and voice. Remember all uploaded files stay enabled only one hour.
 
 
 Happy coding ;-).

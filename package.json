@@ -4,15 +4,17 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.20.0",
     "dotenv": "^8.2.0",
     "telegraf": "^3.38.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
-  "scripts" : {
-    "bot01" : "nodemon examples/bot01.js",
-    "bot02" : "nodemon examples/bot02.js",
-    "bot03" : "nodemon examples/bot03.js"
+  "scripts": {
+    "bot01": "nodemon examples/bot01.js",
+    "bot02": "nodemon examples/bot02.js",
+    "bot03": "nodemon examples/bot03.js",
+    "bot04": "nodemon examples/bot04.js"
   }
 }
