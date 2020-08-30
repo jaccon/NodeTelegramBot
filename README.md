@@ -51,6 +51,9 @@ a file path to photo and voice. Remember all uploaded files stay enabled only on
 #### Bot 05
 In Bot 05 we use a listening a string and regex to reply to user.
 
+#### Bot 06
+Working with custom keyboard to generate a custom hears and types
+
 
 Happy coding ;-).
 by @Jaccon
