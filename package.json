@@ -18,6 +18,7 @@
     "bot03": "nodemon examples/bot03.js",
     "bot04": "nodemon examples/bot04.js",
     "bot05": "nodemon examples/bot05.js",
-    "bot06": "nodemon examples/bot06.js"
+    "bot06": "nodemon examples/bot06.js",
+    "bot07": "nodemon examples/bot07.js"
   }
 }
