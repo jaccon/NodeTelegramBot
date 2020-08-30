@@ -54,6 +54,12 @@ In Bot 05 we use a listening a string and regex to reply to user.
 #### Bot 06
 Working with custom keyboard to generate a custom hears and types
 
+#### Bot 07
+Create a custom command. In this case we create a command /ajuda
+
+#### Bot 08
+Create a custom commands with options
+
 
 Happy coding ;-).
 by @Jaccon
